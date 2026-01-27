@@ -74,7 +74,7 @@ Automated Detection and Identification of Missing Person using AI/
 │
 └── models/                   # Optional (not recommended to upload .dat / large files)
 
-
+```
 ## 📌 Installation & Setup
 
 ### ✅ 1) Clone the Repository
@@ -82,101 +82,134 @@ Automated Detection and Identification of Missing Person using AI/
 ```bash
 git clone https://github.com/<your-username>/Missing-Person-Finder-AI.git
 cd Missing-Person-Finder-AI
+```
 
-✅ 2) Create Virtual Environment (Recommended)
+### ✅ 2) Create Virtual Environment (Recommended)
+
+```bash
 python -m venv venv
+```
 
+### ✅ 3) Activate Virtual Environment
 
-Activate:
-
-Windows
-
+**Windows**
+```bash
 venv\Scripts\activate
+```
 
-
-Linux / Mac
-
+**Linux / Mac**
+```bash
 source venv/bin/activate
+```
 
-✅ 3) Install Dependencies
+### ✅ 4) Install Dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
-▶️ Running the Project
-✅ Run Flask Web App
+---
+
+## ▶️ Running the Project
+
+### ✅ Run Flask Web App
+
+```bash
 python src/app2.py
-
+```
 
 Open in browser:
 
+```text
 http://127.0.0.1:5000/
+```
 
-🧪 How It Works (Workflow)
+---
 
-1️⃣ User uploads an image/video frames
-2️⃣ Face detected from input
-3️⃣ Face embedding is extracted
-4️⃣ Embedding is compared with stored database face vectors
-5️⃣ Best match is returned with similarity score
+## 🧪 How It Works (Workflow)
 
-📊 Results
+1️⃣ User uploads an image / video frames  
+2️⃣ Face is detected from the input  
+3️⃣ Facial embedding/features are extracted  
+4️⃣ Features are compared with stored database faces  
+5️⃣ Best match is returned with similarity score  
 
-✅ Successfully detects face
-✅ Extracts unique facial features
-✅ Performs similarity matching to identify possible missing person match
-✅ Displays predicted result on web interface
+---
 
-📷 Screenshots (Add your output images here)
+## 📊 Output / Results
 
-📌 Upload output images into /screenshots/ and update below:
+✅ Successfully detects faces  
+✅ Extracts unique facial embeddings  
+✅ Matches with stored face vectors  
+✅ Displays predicted missing person match (if found)  
 
-🔹 Home Page
+---
 
-🔹 Detection Output
+## 📷 Screenshots (Add your output images here)
 
-📁 Dataset
+📌 Upload output screenshots inside the `screenshots/` folder and update below:
+
+### 🔹 Home Page
+```md
+![Home Page](screenshots/home.png)
+```
+
+### 🔹 Result / Match Output
+```md
+![Result Page](screenshots/result.png)
+```
+
+---
+
+## 📁 Dataset
 
 You can use:
+- Your own collected missing person face images dataset  
+- Public face datasets (only for testing)
 
-Your own collected missing person face images dataset
+📌 NOTE:  
+Do not upload large datasets directly into GitHub.  
+Instead, provide a Google Drive / Kaggle link.
 
-Public face datasets (for testing)
+---
 
-📌 NOTE:
-Do not upload large datasets directly into GitHub.
-Use Google Drive links or Kaggle/Roboflow datasets and mention them here.
+## ⚠️ Limitations
 
-⚠️ Limitations
+- Face recognition accuracy reduces in low light / blurred frames  
+- Performance depends on camera quality and face visibility  
+- Occlusions (mask, cap) can reduce recognition score  
+- Similar-looking faces may lead to false matches  
 
-Face recognition accuracy reduces in low light / blurred frames
+---
 
-Performance depends on camera quality and face visibility
+## 🚀 Future Enhancements
 
-Side-face / occluded-face detection may reduce match confidence
+✅ Real-time CCTV/live stream integration  
+✅ Improve accuracy with models like ArcFace / FaceNet  
+✅ Cloud deployment with scalable face database  
+✅ Mobile/Web dashboard with alerts  
+✅ Multi-face tracking and notifications  
 
-Similar looking faces may cause false matches
+---
 
-🚀 Future Enhancements
+## 📄 Documentation
 
-✅ Live CCTV real-time stream integration
-✅ Improved recognition using advanced models (ArcFace, FaceNet)
-✅ Cloud deployment with scalable database
-✅ Mobile app / Web dashboard integration
-✅ Multi-face tracking and alert system
+All documentation is available in the `/docs/` folder:
 
-📄 Documentation
+- Project Documentation (Report)  
+- Final PPT  
+- Journal / Reference document  
 
-All project documentation is available in the /docs/ folder:
+---
 
-Project Report
-Final PPT
-Journal / References
+## 👩‍💻 Author
 
-👩‍💻 Author
+**Avanthi**  
+M.Tech – Artificial Intelligence Engineering (AIE)  
+Amrita Vishwa Vidyapeetham, Coimbatore  
 
-Avanthika.K.S
-B.E – Artificial Intelligence and Data Science
-Avinashilingam Institute for Home Science and higher education for women, Coimbatore
+---
 
-⭐ Support
+## ⭐ Support
 
 If you found this project useful, please ⭐ star the repository!
