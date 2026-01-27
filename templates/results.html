@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detection Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #ffafbd, #ffc3a0);
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            text-align: center;
+            color: #E91E63;
+        }
+        .loading {
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+            color: #555;
+        }
+        .match {
+            margin-bottom: 20px;
+        }
+        .match img {
+            width: 100%;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .match-details {
+            text-align: center;
+            margin-top: 10px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Detection Results</h1>
+        {% if matches %}
+            {% for match in matches %}
+                <div class="match">
+                    <img src="{{ match.image }}" alt="Detected Frame">
+                    <div class="match-details">
+                        <p><strong>Frame:</strong> {{ match.frame }}</p>
+                        <p><strong>Similarity:</strong> {{ match.similarity|round(2) }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+        {% else %}
+            <p class="loading">Loading... Please wait while we scan the video for matches.</p>
+        {% endif %}
+    </div>
+</body>
+</html>
