@@ -143,29 +143,11 @@ http://127.0.0.1:5000/
 
 ---
 
-## 📷 Screenshots
-
-### 🔹 Home Page
-```md
-![Home Page](screenshots/home.png)
-```
-
-### 🔹 Result / Match Output
-```md
-![Result Page](outputs/Screenshot 2025-02-12 111528.png)
-```
-
----
-
 ## 📁 Dataset
 
 You can use:
 - Your own collected missing person face images dataset  
 - Public face datasets (only for testing)
-
-📌 NOTE:  
-Do not upload large datasets directly into GitHub.  
-Instead, provide a Google Drive / Kaggle link.
 
 ---
 
@@ -200,7 +182,7 @@ All documentation is available in the `/docs/` folder:
 
 ## 👩‍💻 Author
 
-**Avanthi**  
+**Avanthika K S**  
 M.Tech – Artificial Intelligence Engineering (AIE)  
 Amrita Vishwa Vidyapeetham, Coimbatore  
 
