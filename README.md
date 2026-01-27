@@ -68,11 +68,9 @@ Automated Detection and Identification of Missing Person using AI/
 │   ├── plagarism checked journal.docx
 │
 ├── screenshots/
-│   ├── (add output screenshots here)
-│
-├── dataset/                  # Optional (do not upload huge dataset)
-│
-└── models/                   # Optional (not recommended to upload .dat / large files)
+├── dataset/                  
+└── models/                 
+
 
 ```
 ## 📌 Installation & Setup
@@ -145,9 +143,7 @@ http://127.0.0.1:5000/
 
 ---
 
-## 📷 Screenshots (Add your output images here)
-
-📌 Upload output screenshots inside the `screenshots/` folder and update below:
+## 📷 Screenshots
 
 ### 🔹 Home Page
 ```md
@@ -156,7 +152,7 @@ http://127.0.0.1:5000/
 
 ### 🔹 Result / Match Output
 ```md
-![Result Page](screenshots/result.png)
+![Result Page](outputs/Screenshot 2025-02-12 111528.png)
 ```
 
 ---
