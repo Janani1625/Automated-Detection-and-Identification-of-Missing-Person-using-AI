@@ -5,7 +5,7 @@ This project helps reduce manual searching by automatically matching faces with 
 
 ---
 
-## 🔥 Project Overview
+## 📌 Project Overview
 
 Missing person identification is a real-world critical problem where manual identification from CCTV footage or crowd videos is highly time-consuming.  
 This system automates the process by:
@@ -17,7 +17,7 @@ This system automates the process by:
 
 ---
 
-## ✨ Key Features
+## 📌 Key Features
 
 ✅ Face detection and alignment using **Dlib**  
 ✅ Feature extraction using pre-trained deep learning models  
