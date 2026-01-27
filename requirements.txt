@@ -1,1 +1,11 @@
-
+flask
+opencv-python
+numpy
+dlib
+face-recognition
+Pillow
+scikit-learn
+tensorflow
+keras
+imutils
+pickle-mixin
