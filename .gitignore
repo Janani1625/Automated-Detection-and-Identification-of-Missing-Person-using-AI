@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (large)
+*.dat
+*.h5
+*.pkl
+
+# Dataset (avoid uploading huge dataset)
+dataset/
+data/
+
+# Uploaded user files
+uploads/
+static/uploads/
+
+# Logs
+*.log
