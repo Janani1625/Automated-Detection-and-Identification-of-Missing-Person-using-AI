@@ -183,8 +183,8 @@ All documentation is available in the `/docs/` folder:
 ## 👩‍💻 Author
 
 **Avanthika K S**  
-M.Tech – Artificial Intelligence Engineering (AIE)  
-Amrita Vishwa Vidyapeetham, Coimbatore  
+B.E – Artificial Intelligence and Data Science  
+Avinashilingam Institute for Home Science and higher education for women, Coimbatore  
 
 ---
 
