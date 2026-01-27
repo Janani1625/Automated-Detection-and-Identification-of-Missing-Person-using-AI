@@ -51,32 +51,6 @@ This system automates the process by:
 
 ---
 
-## 📂 Project Structure
-
-Automated Detection and Identification of Missing Person using AI/
-│── README.md
-│── requirements.txt
-│── .gitignore
-│
-├── src/
-│ ├── app2.py # Flask application (main)
-│ ├── main.py # Video to frames / supporting code
-│
-├── docs/
-│ ├── Project Documentation.docx
-│ ├── Project Final PPT.pptx
-│ ├── plagarism checked journal.docx
-│
-├── screenshots/
-│ ├── (add output screenshots here)
-│
-├── dataset/ # Optional (do not upload huge dataset)
-│
-└── models/ # Optional (not recommended to upload .dat / large files)
-
-
----
-
 ## 📌 Installation & Setup
 
 ### ✅ 1) Clone the Repository
